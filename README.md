@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-fanpanel-creates-a-fan-that-has-a-delay-reverse-and-stop
+<br>
+FanPanel creates a fan that has a delay, and repaints ,according to that delay, has other functions such as reverse and stop The Assignment 12 class creates a controlpanel and // adds it as its Applet content and also sets its size. ControlPanel is the GUI window that is set up and //adds all of the buttons, sliders, etc. to the window.
